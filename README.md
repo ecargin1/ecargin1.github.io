@@ -1,6 +1,10 @@
 # World Happiness and Well-Being
+<p>How do you quantify happiness?  What are the factors that contribute to your individual well-being, and does that match with others in your community?</p>
+
+<p>There is existing data regarding well-being and happiness, but seeing numbers on a page is not enough to gain insights about the feelings of happiness, comfort, and well-being. To combat this, we hope to show visualizations summarizing the data on happiness from the World Health Organization (WHO) and well-being fromthe Organization for Economic Cooperation and Development (OECD). With mental health becoming a larger concern worldwide, we hope to help users find understanding on the factors that contribute to happiness and well-being on an individual and global scale.</p>
 
 ## Overview and Background
+### How do you measure well-being?
 <p> The OECD dataset summarizes the well-being of people over several years, and categorizes them into several factors. These factors are further categorized into sub-factors, giving more insightful details about what people consider to be important for them. As a quick overview, these are the important factors according to age, gender, education level and vertical inequality. </p>
 
 <div class='tableauPlaceholder' id='viz1733207052235' style='position: relative'>
@@ -37,8 +41,6 @@
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
     vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
-
-### How do you measure well-being?
 
 ### What is an OECD country?
 
