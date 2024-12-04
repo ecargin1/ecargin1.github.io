@@ -1,7 +1,7 @@
 # World Happiness and Well-Being
 <p>How do you quantify happiness?  What are the factors that contribute to your individual well-being, and does that match with others in your community?</p>
 
-<p>There is existing data regarding well-being and happiness, but seeing numbers on a page is not enough to gain insights about the feelings of happiness, comfort, and well-being. To combat this, we hope to show visualizations summarizing the data on happiness from the World Health Organization (WHO) and well-being fromthe Organization for Economic Cooperation and Development (OECD). With mental health becoming a larger concern worldwide, we hope to help users find understanding on the factors that contribute to happiness and well-being on an individual and global scale.</p>
+<p>There is existing data regarding well-being and happiness, but seeing numbers on a page is not enough to gain insights about the feelings of happiness, comfort, and well-being. To combat this, we hope to show visualizations summarizing the data on happiness from the World Health Organization (WHO) and well-being from the Organization for Economic Cooperation and Development (OECD). With mental health becoming a larger concern worldwide, we hope to help users find understanding on the factors that contribute to happiness and well-being on an individual and global scale.</p>
 
 ## Overview and Background
 ### How do you measure well-being?
