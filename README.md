@@ -88,8 +88,7 @@ Read more about the OECD and their mission [here](https://www.oecd.org/en/about.
       <param name='display_count' value='yes' />
       <param name='language' value='en-US' />
    </object>
-</div> 
-
+</div>
 <script type='text/javascript'>                    
    var divElement = document.getElementById('viz1733288772798');                    
    var vizElement = divElement.getElementsByTagName('object')[0];                    
