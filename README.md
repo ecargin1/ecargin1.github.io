@@ -183,9 +183,19 @@ Or if countries have higher happiness scores if a governmental mental health pol
 
 
 
+
+
+
+
+
+## Explore!
+
+
+
+
 <div class='tableauPlaceholder' id='viz1733345244532' style='position: relative'>
    <noscript><a href='#'><img alt='Final Overview ' 
-                            src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Q4&#47;Q4HCSBJK9&#47;1_rss.png' style='border: none' /></a>
+            src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Q4&#47;Q4HCSBJK9&#47;1_rss.png' style='border: none' /></a>
    </noscript>
    <object class='tableauViz'  style='display:none;'>
       <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
@@ -208,8 +218,3 @@ Or if countries have higher happiness scores if a governmental mental health pol
       scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
       vizElement.parentNode.insertBefore(scriptElement, vizElement);                
    </script>
-
-
-
-
-## Explore!
