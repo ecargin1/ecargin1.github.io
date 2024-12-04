@@ -43,8 +43,8 @@
 </script>
 
 ### What is an OECD country?
-<p>There are 38 countries classified as OECD members (shown in the map below).  The OECD is an international organization which works with the community and policy makers to create policies and standards to improve the global factors which contribute to well-being.  These include economic, social, and environmental factors.
-Read more about the OECD and their mission [here](https://www.oecd.org/en/about.html).</p>
+There are 38 countries classified as OECD members (shown in the map below).  The OECD is an international organization which works with the community and policy makers to create policies and standards to improve the global factors which contribute to well-being.  These include economic, social, and environmental factors.
+Read more about the OECD and their mission [here](https://www.oecd.org/en/about.html).
 
 <div class='tableauPlaceholder' id='viz1733288772798' style='position: relative'>
    <noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Q3&#47;Q36XKJQZ9&#47;1_rss.png' style='border: none' /></a>
