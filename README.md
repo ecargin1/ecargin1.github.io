@@ -307,7 +307,10 @@ Hover over different countries in the following visualizations to see how the ha
    </script>
 
 ## Data Sources
-<p>See the data for yourself!</p>
-<p>[OECD Well-Being Data](https://data-explorer.oecd.org/?fs[0]=Topic%2C1%7CSociety%23SOC%23%7CWell-being%20and%20beyond%20GDP%23SOC_WEL%23&pg=0&fc=Topic&bp=true&snb=8)</p>
-<p>[WHO Health and Wellbeing](https://www.who.int/data/gho/data/major-themes/health-and-well-being)</p>
-<p>[World Database of Happiness](https://worlddatabaseofhappiness.eur.nl/)</p>
+See the data for yourself!
+
+[OECD Well-Being Data](https://data-explorer.oecd.org/?fs[0]=Topic%2C1%7CSociety%23SOC%23%7CWell-being%20and%20beyond%20GDP%23SOC_WEL%23&pg=0&fc=Topic&bp=true&snb=8)
+
+[WHO Health and Wellbeing](https://www.who.int/data/gho/data/major-themes/health-and-well-being)
+
+[World Database of Happiness](https://worlddatabaseofhappiness.eur.nl/)
