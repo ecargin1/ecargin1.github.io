@@ -42,6 +42,36 @@
     vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+<div class='tableauPlaceholder' id='viz1733347501871' style='position: relative'>
+   <noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;OE&#47;OECDTreemaps2&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript>
+   <object class='tableauViz'  style='display:none;'>
+      <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+      <param name='embed_code_version' value='3' />
+      <param name='site_root' value='' />
+      <param name='name' value='OECDTreemaps2&#47;Dashboard1' />
+      <param name='tabs' value='no' />
+      <param name='toolbar' value='yes' />
+      <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;OE&#47;OECDTreemaps2&#47;Dashboard1&#47;1.png' />
+      <param name='animate_transition' value='yes' />
+      <param name='display_static_image' value='yes' />
+      <param name='display_spinner' value='yes' />
+      <param name='display_overlay' value='yes' />
+      <param name='display_count' value='yes' />
+      <param name='language' value='en-US' />
+      <param name='filter' value='publish=yes' />
+   </object>
+</div>
+<script type='text/javascript'>                    
+    var divElement = document.getElementById('viz1733347501871');                    
+    var vizElement = divElement.getElementsByTagName('object')[0];                    
+    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1200px';vizElement.style.height='477px';} 
+    else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1200px';vizElement.style.height='477px';} 
+    else { vizElement.style.width='100%';vizElement.style.height='877px';}                     
+    var scriptElement = document.createElement('script');                    
+    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
+
 ### What is an OECD country?
 There are 38 countries classified as OECD members (shown in the map below).  The OECD is an international organization which works with the community and policy makers to create policies and standards to improve the global factors which contribute to well-being.  These include economic, social, and environmental factors.
 Read more about the OECD and their mission [here](https://www.oecd.org/en/about.html).
@@ -82,29 +112,30 @@ Read more about the OECD and their mission [here](https://www.oecd.org/en/about.
 ### Factor-based Insights
 How much each factor contributes to well-being according to gender, age, education level and vertical inequality every year.
 
-<div class='tableauPlaceholder' id='viz1733327646325' style='position: relative'>
-   <noscript><a href='#'><img alt='Distribution of Factors and their Sub-groups Over the Years ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;OE&#47;OECDFactorDistribution&#47;Sheet2&#47;1_rss.png' style='border: none' /></a></noscript>
+<div class='tableauPlaceholder' id='viz1733347580113' style='position: relative'>
+   <noscript><a href='#'><img alt='Distribution of Well-being Factors Over the Years ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;OE&#47;OECDFactorDistribution&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript>
    <object class='tableauViz'  style='display:none;'>
       <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
       <param name='embed_code_version' value='3' />
       <param name='site_root' value='' />
-      <param name='name' value='OECDFactorDistribution&#47;Sheet2' />
+      <param name='name' value='OECDFactorDistribution&#47;Dashboard1' />
       <param name='tabs' value='no' />
       <param name='toolbar' value='yes' />
-      <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;OE&#47;OECDFactorDistribution&#47;Sheet2&#47;1.png' />
+      <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;OE&#47;OECDFactorDistribution&#47;Dashboard1&#47;1.png' />
       <param name='animate_transition' value='yes' />
       <param name='display_static_image' value='yes' />
       <param name='display_spinner' value='yes' />
       <param name='display_overlay' value='yes' />
       <param name='display_count' value='yes' />
       <param name='language' value='en-US' />
-      <param name='filter' value='publish=yes' />
    </object>
 </div>
 <script type='text/javascript'>                    
-    var divElement = document.getElementById('viz1733327646325');                    
+    var divElement = document.getElementById('viz1733347580113');                    
     var vizElement = divElement.getElementsByTagName('object')[0];                    
-    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1200px';vizElement.style.height='827px';} 
+    else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1200px';vizElement.style.height='827px';} 
+    else { vizElement.style.width='100%';vizElement.style.height='827px';}                     
     var scriptElement = document.createElement('script');                    
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
     vizElement.parentNode.insertBefore(scriptElement, vizElement);                
