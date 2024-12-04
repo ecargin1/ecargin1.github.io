@@ -110,6 +110,7 @@ Read more about the OECD and their mission [here](https://www.oecd.org/en/about.
 ## Data Breakdown
 
 ### Factor-based Insights
+
 How much each factor contributes to well-being according to gender, age, education level and vertical inequality every year.
 
 <div class='tableauPlaceholder' id='viz1733347580113' style='position: relative'>
@@ -141,14 +142,15 @@ How much each factor contributes to well-being according to gender, age, educati
     vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-### Gender-Based Data
 
-### Age-Based Data
 
-### Education-Based Data
+### Well-Being and Policy
+Diving deep into the data, we explore if countries have higher well-being scores if a governmental mental health policy exists?
+Of the OECD countries, according to the World Health Organization (WHO), those who do not have a mental health policy enfored include Austria, Finland, Hungary, Latvia, Luxembourg, Slovenia, and the United States.
+One can see that though these countries do not have mental health policies enforced, they do not necessarily have low happiness and well-being scores.  In fact, Finland, which has the highest happiness score, does not have a mental health policy implemented.
+However, by comparing the OECD countries' well-being scores in the first map to the happiness scores worldwide of the second map, one can see that the OECD countries generally have the highest overall happiness score.
 
-### Comparisons
-Diving deep into the data, we explore if countries have higher well-being scores if a governmental mental health policy exists? (based on WHO data)
+Hover over different countries in the following visualizations to see how the happiness and well-being scores of countries with mental health policies implemented compare with those who don't.
 <div class='tableauPlaceholder' id='viz1733338614534' style='position: relative'>
    <noscript><a href='#'><img alt='Dashboard 1 (2) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;We&#47;Well-beingScoresvsExistenceofMentalHealthPolicy&#47;Dashboard12&#47;1_rss.png' style='border: none' /></a></noscript>
    <object class='tableauViz'  style='display:none;'>
@@ -178,9 +180,6 @@ Diving deep into the data, we explore if countries have higher well-being scores
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
     vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
-
-
-Or if countries have higher happiness scores if a governmental mental health policy exists? (based on WHO data and happiness report)
 
 <div class='tableauPlaceholder' id='viz1733338676303' style='position: relative'>
    <noscript><a href='#'><img alt='Dashboard 2 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Ha&#47;HappinessScoresvsExistenceofMentalHealthPolicy&#47;Dashboard2&#47;1_rss.png' style='border: none' /></a></noscript>
