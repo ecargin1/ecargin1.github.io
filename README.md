@@ -183,6 +183,8 @@ Or if countries have higher happiness scores if a governmental mental health pol
 
 
 
-<iframe src=“https://public.tableau.com/app/profile/sunidhi.singh2667/viz/SunidhiBook2/Sheet1?publish=yes:showVizHome=no&amp;:embed=true” width= “600” height=“800” frameborder=“no” scrolling=“no” data-service=“public.tableau”><iframe>
+
+<script type='text/javascript'> var divElement = document.getElementById('viz1733207052235'); var vizElement = divElement.getElementsByTagName('object')[0]; if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px'; } else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px'; } else { vizElement.style.width='100%';vizElement.style.height='777px'; } var scriptElement = document.createElement('script'); scriptElement.src = '[https://public.tableau.com/javascripts/api/viz_v1.js](https://public.tableau.com/app/profile/sunidhi.singh2667/viz/SunidhiBook2/Sheet1?publish=yes)'; vizElement.parentNode.insertBefore(scriptElement, vizElement); </script>
+
 
 ## Explore!
