@@ -1,3 +1,10 @@
+<figure>
+  <img
+  src="./headerimage.png"
+  alt="Header">
+  <figcaption>Header</figcaption>
+</figure>
+
 # World Happiness and Well-Being
 <p>How do you quantify happiness?  What are the factors that contribute to your individual well-being, and does that match with others in your community?</p>
 
