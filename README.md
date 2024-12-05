@@ -1,18 +1,57 @@
-<figure>
+<style>
+    /* Style for the header */
+    .image-header {
+        position: relative;
+        height: 300px;
+        background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
+                    url('./mental-health-6994374_1280.png') center/cover no-repeat;
+        color: white;
+        display: flex;
+        align-items: center; 
+        justify-content: center;
+        text-align: center;
+    }
+
+    /* Text inside the header */
+    .image-header h1 {
+        font-size: 2.5rem; /* Adjust font size */
+        margin: 0;
+    }
+</style>
+
+<header class="image-header">
+    <h1>World Happiness and Well-being</h1>
+</header>
+
+<!-- <figure>
   <img
   src="./mental-health-6994374_1280.png"
   alt="Header">
   <figcaption></figcaption>
-</figure>
+</figure> -->
 
-# World Happiness and Well-Being
+<!-- # World Happiness and Well-Being -->
+<body>
 <p>How do you quantify happiness?  What are the factors that contribute to your individual well-being, and does that match with others in your community?</p>
 
 <p>There is existing data regarding well-being and happiness, but seeing numbers on a page is not enough to gain insights about the feelings of happiness, comfort, and well-being. To combat this, we hope to show visualizations summarizing the data on happiness from the World Health Organization (WHO) and well-being from the Organization for Economic Cooperation and Development (OECD). With mental health becoming a larger concern worldwide, we hope to help users find understanding on the factors that contribute to happiness and well-being on an individual and global scale.</p>
 
 ## Overview and Background
+
+<div style="display: flex; align-items: flex-start;">
+
+  <div style="flex: 1; padding-right: 20px;">
+    <p>The OECD dataset summarizes the well-being of people over several years, and categorizes them into several factors. These factors are further categorized into sub-factors, giving more insightful details about what people consider to be important for them. Among surveys held across different groups of people, the top 5 most emphasized factors were safety, health, social connections, civic engagement and work and job quality.</p>
+  </div>
+
+  <div style="flex: 1;">
+    <img src="Social Connections.png" alt="" style="max-width: 100%; height: auto;">
+  </div>
+
+</div>
+
 ### How do you measure well-being?
-<p> The OECD dataset summarizes the well-being of people over several years, and categorizes them into several factors. These factors are further categorized into sub-factors, giving more insightful details about what people consider to be important for them. As a quick overview, these are the important factors according to age, gender, education level and vertical inequality. </p>
+<p> The OECD dataset uses xxx scale and percentages to calculate a well-being score for each particular factor group. As a quick overview, these are the important factors according to age, gender, education level and vertical inequality. </p>
 
 <div class='tableauPlaceholder' id='viz1733207052235' style='position: relative'>
    <noscript><a href='#'><img alt='Treemaps Overview ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;OE&#47;OECDDataOverview&#47;TreemapsOverview&#47;1_rss.png' style='border: none' /></a></noscript>
@@ -328,3 +367,4 @@ See the data for yourself!
 [WHO Health and Wellbeing](https://www.who.int/data/gho/data/major-themes/health-and-well-being)
 
 [World Database of Happiness](https://worlddatabaseofhappiness.eur.nl/)
+</body>
