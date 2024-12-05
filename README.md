@@ -13,6 +13,7 @@
 ## Overview and Background
 ### How do you measure well-being?
 <p> The OECD dataset summarizes the well-being of people over several years, and categorizes them into several factors. These factors are further categorized into sub-factors, giving more insightful details about what people consider to be important for them. As a quick overview, these are the important factors according to age, gender, education level and vertical inequality. </p>
+<p>For OECD data used on this site, most values are measured by a percentage of population within a specific visualized group, whether that be age, sex, vertical inequality, or education level.  For visualizations where multiple categories are shown, these percentages are averaged.  For World Happiness data used on this site, happiness scores are on a scale of 1-10.  For more information about the data used on this site, please see the "Data Sources" section below.</p>
 
 <div class='tableauPlaceholder' id='viz1733207052235' style='position: relative'>
    <noscript><a href='#'><img alt='Treemaps Overview ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;OE&#47;OECDDataOverview&#47;TreemapsOverview&#47;1_rss.png' style='border: none' /></a></noscript>
@@ -77,9 +78,6 @@
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
     vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
-
-</br>
-For OECD data used on this site, most values are measured by a percentage of population within a specific visualized group, whether that be age, sex, vertical inequality, or education level.  For visualizations where multiple categories are shown, these percentages are averaged.  For World Happiness data used on this site, happiness scores are on a scale of 1-10.  For more information about the data used on this site, please see the "Data Sources" section below.
 
 ### What is an OECD country?
 There are 38 countries classified as OECD members (shown in the map below).  The OECD is an international organization which works with the community and policy makers to create policies and standards to improve the global factors which contribute to well-being.  These include economic, social, and environmental factors.
