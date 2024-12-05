@@ -72,7 +72,6 @@
       <param name='filter' value='publish=yes' />
    </object>
 </div>
-
 <script type='text/javascript'>                    
     var divElement = document.getElementById('viz1733207052235');                    
     var vizElement = divElement.getElementsByTagName('object')[0];                    
@@ -118,6 +117,8 @@
     vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
+</br>
+For OECD data used on this site, most values are measured by a percentage of population within a specific visualized group, whether that be age, sex, vertical inequality, or education level.  For visualizations where multiple categories are shown, these percentages are averaged.  For World Happiness data used on this site, happiness scores are on a scale of 1-10.  For more information about the data used on this site, please see the "Data Sources" section below.
 
 ### What is an OECD country?
 There are 38 countries classified as OECD members (shown in the map below).  The OECD is an international organization which works with the community and policy makers to create policies and standards to improve the global factors which contribute to well-being.  These include economic, social, and environmental factors.
