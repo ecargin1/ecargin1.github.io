@@ -171,7 +171,7 @@ Read more about the OECD and their mission [here](https://www.oecd.org/en/about.
 <p>The OECD was founded in 1960 with 20 founding countries. Since then, the well-being data featured on this site has been collected starting in 2004 and continuing to the present.</p>
 <p>In addition, the data collected for the World Happiness Reports has been collected from 2013-Present.</p>
 
-### How do you measure happiness?
+### The World Happiness Report Approach
 <p> The World Happiness Report takes a different approach by using the Life Ladder, also known as the Cantril Ladder, which is one of the most widely accepted ways to measure happiness. It asks people to picture a ladder with 10 steps, where the bottom step represents the worst life they can imagine and the top step represents the best. People who report scores of 4 or lower are considered suffering, people with scores between 4 and 7 are considered struggling, and scores of 7 or higher are considered thriving. </p>
 
 <p> Alongside the Happiness Score provided by the Life Ladder, the World Happiness Report showcases additional variables- GDP per capita, social support, healthy life expectancy at birth, freedom to make life choices, generosity, and perceptions of corruption. These factors do not affect the calculation of the Happiness Score, but they are predictor variables that help explain some of the variation in the happiness score. The residuals represent the remaining amount of the Happiness Score that is not explained by these variables. To analyze these variables at a high level, here is the worldwide average of each of the factors over time. </p>
@@ -243,7 +243,7 @@ Use the visualization below to get a sense of how the different factors contribu
     vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-<p> View the next visualizations below to see the different variables measured in the World Happiness Report and their correlations with the Happiness Score. Be sure to click through the years to see change over time and pay attention to the colors to see regional differences. </p>
+<p> View the visualizations below to explore the various factors measured in the World Happiness Report, such as GDP per capita, social support, healthy life expectancy, and freedom to make life choices, and how they correlate with the overall Happiness Score. Use the interactive timeline to observe changes over time, and focus on color coding to uncover regional differences and trends. Dive in to identify patterns and understand what drives happiness in different parts of the world. </p>
 
 <div class='tableauPlaceholder' id='viz1733367883118' style='position: relative'>
    <noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Wo&#47;WorldHappinessReport_17333623705460&#47;correlationswithhappiness&#47;1_rss.png' style='border: none' /></a></noscript>
