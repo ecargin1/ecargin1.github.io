@@ -216,7 +216,7 @@ Hover over different countries in the following visualizations to see how the ha
 
 <div class='tableauPlaceholder' id='viz1733356068052' style='position: relative'>
    <noscript><a href='#'><img alt='Dashboard 1 ' 
-                            src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book1_17333555941790&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a>
+                     src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Bo&#47;Book1_17333555941790&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a>
    </noscript>
    <object class='tableauViz'  style='display:none;'>
       <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
@@ -229,7 +229,8 @@ Hover over different countries in the following visualizations to see how the ha
       <param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' />
       <param name='display_count' value='yes' /><param name='language' value='en-GB' />
       <param name='filter' value='publish=yes' />
-   </object></div>                
+   </object>
+   </div>                
    <script type='text/javascript'>                    
       var divElement = document.getElementById('viz1733356068052');                    
       var vizElement = divElement.getElementsByTagName('object')[0];                    
@@ -249,7 +250,7 @@ Hover over different countries in the following visualizations to see how the ha
 
 <div class='tableauPlaceholder' id='viz1733356174699' style='position: relative'>
    <noscript><a href='#'><img alt='Line Scatter Plot :) ' 
-                            src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;J6&#47;J63WCZK8N&#47;1_rss.png' style='border: none' /></a>
+                     src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;J6&#47;J63WCZK8N&#47;1_rss.png' style='border: none' /></a>
    </noscript>
    <object class='tableauViz'  style='display:none;'>
       <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> 
@@ -264,7 +265,8 @@ Hover over different countries in the following visualizations to see how the ha
       <param name='display_count' value='yes' />
       <param name='language' value='en-GB' />
       <param name='filter' value='publish=yes' />
-   </object></div>                
+   </object>
+   </div>                
    <script type='text/javascript'>                    
       var divElement = document.getElementById('viz1733356174699');                    
       var vizElement = divElement.getElementsByTagName('object')[0];                    
@@ -296,7 +298,8 @@ Hover over different countries in the following visualizations to see how the ha
       <param name='display_overlay' value='yes' /><param name='display_count' value='yes' />
       <param name='language' value='en-GB' />
       <param name='filter' value='publish=yes' />
-   </object></div>                
+   </object>
+   </div>                
    <script type='text/javascript'>                    
       var divElement = document.getElementById('viz1733345244532');                    
       var vizElement = divElement.getElementsByTagName('object')[0];                    
