@@ -31,16 +31,18 @@
 </figure> -->
 
 <!-- # World Happiness and Well-Being -->
-<p>How do you quantify happiness?  What are the factors that contribute to your individual well-being, and does that match with others in your community?</p>
+<p>How do you quantify happiness? What factors contribute to your well-being, and how does your experience compare to those in your community?</p>
 
-<p>There is existing data regarding well-being and happiness, but seeing numbers on a page is not enough to gain insights about the feelings of happiness, comfort, and well-being. To combat this, we hope to show visualizations to summarize and explore happiness data from the World Health Organization (WHO), the World Happiness Report, and well-being data from the Organization for Economic Cooperation and Development (OECD). With mental health becoming a larger concern worldwide, we hope to help users find understanding on the factors that contribute to happiness and well-being on an individual and global scale.</p>
+<p>While there is lots of existing data on happiness and well-being, simply presenting numbers isn’t enough to truly understand these complex emotions. To bridge this gap, we provide visualizations of happiness and well-being data sourced from the World Health Organization (WHO), the World Happiness Report, and the Organization for Economic Cooperation and Development (OECD). With mental health gaining attention worldwide, our goal is to help users uncover the factors that drive happiness on both personal and global scales.</p>
 
 ## Overview and Background
 
 <div style="display: flex; align-items: flex-start;">
 
   <div style="flex: 1; padding-right: 20px;">
-    <p>The OECD dataset summarizes the well-being of people over several years, and categorizes them into several factors. These factors are further categorized into sub-factors, giving more insightful details about what people consider to be important for them. Among surveys held across different groups of people, the top 5 most emphasized factors were safety, health, social connections, civic engagement and work and job quality.</p>
+
+### The OECD Approach
+    <p>The OECD measures well-being across several categories, which are further divided into sub-factors for deeper insights. Surveys consistently highlight the top five factors for well-being: safety, health, social connections, civic engagement, and work and job quality. For OECD data used on this site, most values are measured by a percentage of population within a specific visualized group, whether that be age, sex, vertical inequality, or education level.  For visualizations where multiple categories are shown, these percentages are averaged. For more information about the data used on this site, please see the "Data Sources" section below.</p>
   </div>
 
   <div style="flex: 1;">
@@ -49,9 +51,7 @@
 
 </div>
 
-### How do you measure well-being?
-<p>For OECD data used on this site, most values are measured by a percentage of population within a specific visualized group, whether that be age, sex, vertical inequality, or education level.  For visualizations where multiple categories are shown, these percentages are averaged.  For World Happiness data used on this site, happiness scores are on a scale of 1-10.  For more information about the data used on this site, please see the "Data Sources" section below.</p>
-<p> As a quick overview, these are the important factors according to age, gender, education level and vertical inequality. </p>
+<p> In the visualizations below, view the important factors in the OECD Dataset according to age, gender, education level and vertical inequality. </p>
 
 
 <div class='tableauPlaceholder' id='viz1733207052235' style='position: relative'>
