@@ -3,6 +3,7 @@
     .image-header {
         position: relative;
         height: 300px;
+        width: 100vw;
         background: linear-gradient(to bottom, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), 
                     url('./mental-health-6994374_1280.png') center/cover no-repeat;
         color: white;
