@@ -2,7 +2,7 @@
   <img
   src="./mental-health-6994374_1280.png"
   alt="Header">
-  <figcaption>Header</figcaption>
+  <figcaption></figcaption>
 </figure>
 
 # World Happiness and Well-Being
