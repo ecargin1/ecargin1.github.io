@@ -17,6 +17,13 @@
         font-size: 2.5rem; /* Adjust font size */
         margin: 0;
     }
+    .tableau-container {
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        margin: 0 auto; /* Center horizontally */
+        width: 100%; /* Take up full width */
+    }
 </style>
 
 <header class="image-header">
@@ -122,18 +129,37 @@
 There are 38 countries classified as OECD members (shown in the map below).  The OECD is an international organization which works with the community and policy makers to create policies and standards to improve the global factors which contribute to well-being.  These include economic, social, and environmental factors.
 Read more about the OECD and their mission [here](https://www.oecd.org/en/about.html).
 
-<div class='tableauPlaceholder' id='viz1733288772798' style='position: relative'>
-   <noscript><a href='#'><img alt='Dashboard 1 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Q3&#47;Q36XKJQZ9&#47;1_rss.png' style='border: none' /></a>
-   </noscript>
+
+
+<div class='tableauPlaceholder' id='viz1733366932724' style='position: relative'>
+   <noscript><a href='#'><img alt='OECD Country Summary ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;OE&#47;OECDCountrySummary_17333669056750&#47;Sheet3&#47;1_rss.png' style='border: none' /></a></noscript>
    <object class='tableauViz'  style='display:none;'>
-      <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> 
-      <param name='path' value='shared&#47;Q36XKJQZ9' /> <param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Q3&#47;Q36XKJQZ9&#47;1.png' /> 
-      <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' />
+      <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+      <param name='embed_code_version' value='3' />
+      <param name='site_root' value='' />
+      <param name='name' value='OECDCountrySummary_17333669056750&#47;Sheet3' />
+      <param name='tabs' value='no' />
+      <param name='toolbar' value='yes' />
+      <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;OE&#47;OECDCountrySummary_17333669056750&#47;Sheet3&#47;1.png' />
+      <param name='animate_transition' value='yes' />
+      <param name='display_static_image' value='yes' />
+      <param name='display_spinner' value='yes' />
       <param name='display_overlay' value='yes' />
       <param name='display_count' value='yes' />
       <param name='language' value='en-US' />
+      <param name='filter' value='publish=yes' />
    </object>
 </div>
+<script type='text/javascript'>                    
+    var divElement = document.getElementById('viz1733366932724');                    
+    var vizElement = divElement.getElementsByTagName('object')[0];                    
+    vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';                    
+    var scriptElement = document.createElement('script');                    
+    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    
+    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
+</script>
+
+
 <script type='text/javascript'>                    
    var divElement = document.getElementById('viz1733288772798');                    
    var vizElement = divElement.getElementsByTagName('object')[0];                    
@@ -190,6 +216,7 @@ Read more about the OECD and their mission [here](https://www.oecd.org/en/about.
 ### Factor-based Insights
 Use the visualization below to get a sense of how the different factors contributing to well-being have changed over time and how they compare when broken down by age, education, sex, and vertical inequality.
 
+<div class="tableau-container">
 <div class='tableauPlaceholder' id='viz1733347580113' style='position: relative'>
    <noscript><a href='#'><img alt='Distribution of Well-being Factors Over the Years ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;OE&#47;OECDFactorDistribution&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript>
    <object class='tableauViz'  style='display:none;'>
@@ -207,6 +234,7 @@ Use the visualization below to get a sense of how the different factors contribu
       <param name='display_count' value='yes' />
       <param name='language' value='en-US' />
    </object>
+</div>
 </div>
 <script type='text/javascript'>                    
     var divElement = document.getElementById('viz1733347580113');                    
