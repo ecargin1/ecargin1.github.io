@@ -351,6 +351,9 @@ Often we find our happiness and well-being is impacted by the global events happ
 
 ## Explore!
 
+
+Here, we have a line scatter plot representing the correlation between perceived freedom and GDP per capita. Orange means the oldest year, and blue indicates the latest year. You can select the country for which you want to study the correlation from the menu.
+
 <div class='tableauPlaceholder' id='viz1733357361280' style='position: relative'>
    <noscript><a href='#'><img alt='Dashboard 2 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Li&#47;LineScatterPlot&#47;Dashboard2&#47;1_rss.png' style='border: none' /></a>
    </noscript>
@@ -381,7 +384,7 @@ Often we find our happiness and well-being is impacted by the global events happ
    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-
+Here, we present the final overview of Happiness across time. The hover text gives more information about the contributing factors for each country.
 
 <div class='tableauPlaceholder' id='viz1733364356182' style='position: relative'>
    <noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Wo&#47;WorldHappinessReport_17333623705460&#47;HappinessbyCountryandYear&#47;1_rss.png' style='border: none' /></a></noscript>
