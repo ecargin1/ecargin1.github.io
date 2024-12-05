@@ -110,8 +110,7 @@ Read more about the OECD and their mission [here](https://www.oecd.org/en/about.
 ## Data Breakdown
 
 ### Factor-based Insights
-
-How much each factor contributes to well-being according to gender, age, education level and vertical inequality every year.
+Use the visualization below to get a sense of how the different factors contributing to well-being have changed over time and how they compare when broken down by age, education, sex, and vertical inequality.
 
 <div class='tableauPlaceholder' id='viz1733347580113' style='position: relative'>
    <noscript><a href='#'><img alt='Distribution of Well-being Factors Over the Years ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;OE&#47;OECDFactorDistribution&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript>
