@@ -33,7 +33,7 @@
 <!-- # World Happiness and Well-Being -->
 <p>How do you quantify happiness?  What are the factors that contribute to your individual well-being, and does that match with others in your community?</p>
 
-<p>There is existing data regarding well-being and happiness, but seeing numbers on a page is not enough to gain insights about the feelings of happiness, comfort, and well-being. To combat this, we hope to show visualizations summarizing the data on happiness from the World Health Organization (WHO) and well-being from the Organization for Economic Cooperation and Development (OECD). With mental health becoming a larger concern worldwide, we hope to help users find understanding on the factors that contribute to happiness and well-being on an individual and global scale.</p>
+<p>There is existing data regarding well-being and happiness, but seeing numbers on a page is not enough to gain insights about the feelings of happiness, comfort, and well-being. To combat this, we hope to show visualizations to summarize and explore happiness data from the World Health Organization (WHO), the World Happiness Report, and well-being data from the Organization for Economic Cooperation and Development (OECD). With mental health becoming a larger concern worldwide, we hope to help users find understanding on the factors that contribute to happiness and well-being on an individual and global scale.</p>
 
 ## Overview and Background
 
@@ -151,6 +151,39 @@ Read more about the OECD and their mission [here](https://www.oecd.org/en/about.
 ### How long has this been studied?
 <p>The OECD was founded in 1960 with 20 founding countries. Since then, the well-being data featured on this site has been collected starting in 2004 and continuing to the present.</p>
 <p>In addition, the data collected for the World Happiness Reports has been collected from 2013-Present.</p>
+
+### How do you measure happiness?
+<p> The World Happiness Report takes a different approach by using the Life Ladder, also known as the Cantril Ladder, which is one of the most widely accepted ways to measure happiness. It asks people to picture a ladder with 10 steps, where the bottom step represents the worst life they can imagine and the top step represents the best. People who report scores of 4 or lower are considered suffering, people with scores between 4 and 7 are considered struggling, and scores of 7 or higher are considered thriving. </p>
+
+<p> Alongside the Happiness Score provided by the Life Ladder, the World Happiness Report showcases additional variables- GDP per capita, social support, healthy life expectancy at birth, freedom to make life choices, generosity, and perceptions of corruption. These factors do not affect the calculation of the Happiness Score, but they are predictor variables that help explain some of the variation in the happiness score. The residuals represent the remaining amount of the Happiness Score that is not explained by these variables. To analyze these variables at a high level, here is the worldwide average of each of the factors over time. </p>
+
+<div class='tableauPlaceholder' id='viz1733363597185' style='position: relative'>
+   <noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Wo&#47;WorldHappinessReport_17333623705460&#47;WorldwideAverageofFactorsOverTime&#47;1_rss.png' style='border: none' /></a></noscript>
+   <object class='tableauViz'  style='display:none;'>
+      <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+      <param name='embed_code_version' value='3' />
+      <param name='site_root' value='' />
+      <param name='name' value='WorldHappinessReport_17333623705460&#47;WorldwideAverageofFactorsOverTime' />
+      <param name='tabs' value='yes' />
+      <param name='toolbar' value='yes' />
+      <param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Wo&#47;WorldHappinessReport_17333623705460&#47;WorldwideAverageofFactorsOverTime&#47;1.png' />
+      <param name='animate_transition' value='yes' />
+      <param name='display_static_image' value='yes' />
+      <param name='display_spinner' value='yes' />
+      <param name='display_overlay' value='yes' />
+      <param name='display_count' value='yes' />
+      <param name='language' value='en-US' />
+   </object>
+</div>
+<script type='text/javascript'>
+    var divElement = document.getElementById('viz1733363597185');
+    var vizElement = divElement.getElementsByTagName('object')[0];
+    vizElement.style.width='100%';
+    vizElement.style.height=(divElement.offsetWidth*0.75)+'px';
+    var scriptElement = document.createElement('script');
+    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+    vizElement.parentNode.insertBefore(scriptElement, vizElement);
+</script>
 
 ## Data Breakdown
 
