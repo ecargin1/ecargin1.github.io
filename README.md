@@ -207,6 +207,11 @@ Read more about the OECD and their mission [here](https://www.oecd.org/en/about.
 ## Data Breakdown
 
 ### Factor-based Insights
+Diving deep into the data, we explore if countries have higher well-being scores if a governmental mental health policy exists?
+Of the OECD countries, according to the World Health Organization (WHO), those who do not have a mental health policy enfored include Austria, Finland, Hungary, Latvia, Luxembourg, Slovenia, and the United States.
+One can see that though these countries do not have mental health policies enforced, they do not necessarily have low happiness and well-being scores.  In fact, Finland, which has the highest happiness score, does not have a mental health policy implemented.
+However, by comparing the OECD countries' well-being scores in the first map to the happiness scores worldwide of the second map, one can see that the OECD countries generally have the highest overall happiness score.
+
 Use the visualization below to get a sense of how the different factors contributing to well-being have changed over time and how they compare when broken down by age, education, sex, and vertical inequality.
 
 <div class='tableauPlaceholder' id='viz1733347580113' style='position: relative'>
