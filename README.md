@@ -37,12 +37,13 @@
 
 ## Overview and Background
 
+### The OECD Approach
+
 <div style="display: flex; align-items: flex-start;">
 
   <div style="flex: 1; padding-right: 20px;">
 
-### The OECD Approach
-    <p>The OECD measures well-being across several categories, which are further divided into sub-factors for deeper insights. Surveys consistently highlight the top five factors for well-being: safety, health, social connections, civic engagement, and work and job quality. For OECD data used on this site, most values are measured by a percentage of population within a specific visualized group, whether that be age, sex, vertical inequality, or education level.  For visualizations where multiple categories are shown, these percentages are averaged. For more information about the data used on this site, please see the "Data Sources" section below.</p>
+    The OECD measures well-being across several categories, which are further divided into sub-factors for deeper insights. Surveys consistently highlight the top five factors for well-being: safety, health, social connections, civic engagement, and work and job quality. For OECD data used on this site, most values are measured by a percentage of population within a specific visualized group, whether that be age, sex, vertical inequality, or education level.  For visualizations where multiple categories are shown, these percentages are averaged. For more information about the data used on this site, please see the "Data Sources" section below.
   </div>
 
   <div style="flex: 1;">
