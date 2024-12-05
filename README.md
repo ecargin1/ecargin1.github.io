@@ -17,13 +17,6 @@
         font-size: 2.5rem; /* Adjust font size */
         margin: 0;
     }
-    .tableau-container {
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        margin: 0 auto; /* Center horizontally */
-        width: 100%; /* Take up full width */
-    }
 </style>
 
 <header class="image-header">
@@ -216,7 +209,6 @@ Read more about the OECD and their mission [here](https://www.oecd.org/en/about.
 ### Factor-based Insights
 Use the visualization below to get a sense of how the different factors contributing to well-being have changed over time and how they compare when broken down by age, education, sex, and vertical inequality.
 
-<div class="tableau-container">
 <div class='tableauPlaceholder' id='viz1733347580113' style='position: relative'>
    <noscript><a href='#'><img alt='Distribution of Well-being Factors Over the Years ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;OE&#47;OECDFactorDistribution&#47;Dashboard1&#47;1_rss.png' style='border: none' /></a></noscript>
    <object class='tableauViz'  style='display:none;'>
@@ -234,7 +226,6 @@ Use the visualization below to get a sense of how the different factors contribu
       <param name='display_count' value='yes' />
       <param name='language' value='en-US' />
    </object>
-</div>
 </div>
 <script type='text/javascript'>                    
     var divElement = document.getElementById('viz1733347580113');                    
