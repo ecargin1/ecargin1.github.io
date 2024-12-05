@@ -379,7 +379,7 @@ Often we find our happiness and well-being is impacted by the global events happ
 ## Explore!
 
 
-Here, we have a line scatter plot representing the correlation between perceived freedom and GDP per capita. Orange means the oldest year, and blue indicates the latest year. You can select the country for which you want to study the correlation from the menu.
+This line scatter plot shows the relationship between perceived freedom and GDP per capita over time, providing insight into how economic prosperity and personal freedoms are interconnected.  The colors range from orange for the oldest year to blue for the most recent year, making it easy to see changes over time. You can select a specific country from the menu to focus on its data and see how its economic growth relates to the level of perceived freedom. The goal is to help understand how these two factors are connected and if that connection changes across different countries or years.
 
 <div class='tableauPlaceholder' id='viz1733357361280' style='position: relative'>
    <noscript><a href='#'><img alt='Dashboard 2 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Li&#47;LineScatterPlot&#47;Dashboard2&#47;1_rss.png' style='border: none' /></a>
