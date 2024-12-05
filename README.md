@@ -333,7 +333,7 @@ Often we find our happiness and well-being is impacted by the global events happ
             <img alt='Dashboard 1' src='https://public.tableau.com/static/images/Fi/FinalOverview/Dashboard1/1_rss.png' style='border: none' />
         </a>
     </noscript>
-    <object class='tableauViz' style='display:none;transform: scale(1.5); transform-origin: top left;'>
+    <object class='tableauViz' style='display:none; transform: scale(1.2); transform-origin: top left;'>
         <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
         <param name='embed_code_version' value='3' />
         <param name='site_root' value='' />
@@ -367,7 +367,6 @@ Often we find our happiness and well-being is impacted by the global events happ
     scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
     vizElement.parentNode.insertBefore(scriptElement, vizElement);
 </script>
-
 
 
 ## Data Sources
