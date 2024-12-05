@@ -453,3 +453,11 @@ See the data for yourself!
 [WHO Health and Wellbeing](https://www.who.int/data/gho/data/major-themes/health-and-well-being)
 
 [World Database of Happiness](https://worlddatabaseofhappiness.eur.nl/)
+
+
+
+## Team Members
+1. Anisa Aisha Ahmed - aahmed377@gatech.edu
+2. Erin Nicole Cargin - ecargin3@gatech.edu
+3. Katie Anne McIntyre - kmcintyre32@gatech.edu
+4. Sunidhi Singh - sunidhisingh@gatech.edu
