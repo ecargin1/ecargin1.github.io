@@ -210,8 +210,8 @@ Hover over different countries in the following visualizations to see how the ha
     vizElement.parentNode.insertBefore(scriptElement, vizElement);                
 </script>
 
-
-
+### The Steepest Fall
+Often we find our happiness and well-being is impacted by the global events happening around us.  The following visualization focuses on the four countries with the biggest change in happiness scores from 2012 to 2024.  One can see the historical events that impact the entire country, and how that can have an impact individual happiness as well.
 
 <div class='tableauPlaceholder' id='viz1733356068052' style='position: relative'>
    <noscript><a href='#'><img alt='Dashboard 1 ' 
@@ -244,8 +244,6 @@ Hover over different countries in the following visualizations to see how the ha
 
 
 ## Explore!
-
-
 
 <div class='tableauPlaceholder' id='viz1733357361280' style='position: relative'>
    <noscript><a href='#'><img alt='Dashboard 2 ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Li&#47;LineScatterPlot&#47;Dashboard2&#47;1_rss.png' style='border: none' /></a>
