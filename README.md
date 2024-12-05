@@ -33,7 +33,6 @@
       <param name='filter' value='publish=yes' />
    </object>
 </div>
-
 <script type='text/javascript'>                    
     var divElement = document.getElementById('viz1733207052235');                    
     var vizElement = divElement.getElementsByTagName('object')[0];                    
