@@ -1,6 +1,6 @@
 <figure>
   <img
-  src="./headerimage.png"
+  src="./mental-health-6994374_1280.png"
   alt="Header">
   <figcaption>Header</figcaption>
 </figure>
